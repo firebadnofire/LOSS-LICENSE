@@ -2,6 +2,8 @@
 
 The Libre Open Source Software (LOSS) License is a license that keeps it simple and short. Easy to understand language and no suspicious term agreements. You will be at a LOSS for words when you see how simple it is.
 
+Raw text of the license can be found in the LICENSE file of this repository
+
 # License text:
 
 Libre Open Source Software (LOSS) License 
