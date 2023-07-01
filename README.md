@@ -9,6 +9,7 @@ Raw text of the license can be found in the LICENSE file of this repository
 Libre Open Source Software (LOSS) License 
 
 | || 
+
 || |_
 
 Version 1.0, [DATE]
