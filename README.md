@@ -14,7 +14,7 @@ Libre Open Source Software (LOSS) License
 
 Version 1.0, [DATE]
 
-The Libre Open Source Software (LOSS) License is an agreement between the licensee and the distributor, [NAME OR USERNAME]. By downloading, installing, copying, or otherwise using the software “[SOFTWARE NAME]”, You agree to be bound by the terms and conditions of this License.
+The Libre Open Source Software (LOSS) License is an agreement between the licensee and the Licensor, [NAME OR USERNAME]. By downloading, installing, copying, or otherwise using the software “[SOFTWARE NAME]”, You agree to be bound by the terms and conditions of this License.
 
 Licensed software may be distributed.
 
