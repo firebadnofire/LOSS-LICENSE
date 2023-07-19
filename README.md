@@ -36,6 +36,8 @@ Licensed software comes with NO LIABILITY.
 
 Licensed software comes with NO WARRANTY.
 
+Licensed software DOES NOT allow for it's code to be used to train any machine learning algorithms such as Generative pre-trained transformer although the software itself may be a machine learning algorithm.
+
 Termination
 
 This License is effective until terminated. You may terminate it at any time by discontinuing the use of the Software. The License will also terminate immediately and automatically without notice from the Licensor if you fail to comply with any of its terms.
