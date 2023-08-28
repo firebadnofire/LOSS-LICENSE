@@ -16,14 +16,14 @@ Libre Open Source Software (LOSS) License
 
 Permissions:
 
-    You are granted the freedom to use, modify, and distribute the software.
-    Any distribution of modified versions must be made available under this same license.
-    The source code of the software must always be accessible to users along with any modifications.
+   You are granted the freedom to use, modify, and distribute the software.
+   Any distribution of modified versions must be made available under this same license.
+   The source code of the software must always be accessible to users along with any modifications.
 
 Limitations:
 
-    The licensed software, or any modified version, cannot be used for training or creating machine learning algorithms.
-    Any patent claims related to the software shall not be enforced against anyone using, modifying, or distributing the software in compliance with this license.
+   The licensed software, or any modified version, cannot be used for training or creating machine learning algorithms.
+   Any patent claims related to the software shall not be enforced against anyone using, modifying, or distributing the software in compliance with this license.
 
 Disclaimer:
 
