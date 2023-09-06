@@ -6,6 +6,12 @@ Raw text of the license can be found in the LICENSE file of this repository
 
 Want to use this license in your project? Feel free to!
 
+# Disclaimer:
+
+firebadnofire is not a lawyer or legal expert. The license text provided here is for informational purposes only and should not be considered legal advice. While firebadnofire has made their best effort to create a comprehensive and understandable license, they are not qualified to provide legal counsel. Using this license is entirely at your own discretion and risk. firebadnofire strongly recommends consulting with a qualified legal professional to ensure that the license suits your specific legal needs and offers the necessary protections. Please be aware that any reliance on this license should be made with the understanding that it may not cover all potential legal issues, and firebadnofire disclaims any responsibility or liability for its use.
+
+It's essential to seek guidance from a legal expert to review and customize your license to your unique circumstances. This disclaimer emphasizes that firebadnofire is not a lawyer and encourages users to consult a qualified attorney for legal advice.
+
 ## Permissions:
 Commercial use<br>
 Distribution<br>
