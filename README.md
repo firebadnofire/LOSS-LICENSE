@@ -4,6 +4,22 @@ The Libre Open Source Software (LOSS) License is a license that keeps it simple 
 
 Raw text of the license can be found in the LICENSE file of this repository
 
+## Permissions:
+Commercial use
+Distribution
+Modification
+Private use
+
+## Conditions:
+Disclose Source
+Must use the same license for forks
+
+## Limitations:
+The licensed software or any modified version cannot be used for training or creating machine learning algorithms.
+The licensed software may not be patented.
+No warranties
+Limitation on liability
+
 Want to use this license in your project? Feel free to!
 
 # License text:
